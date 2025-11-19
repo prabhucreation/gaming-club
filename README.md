@@ -1,2 +1,2 @@
 # gaming-club
-gameing club back end
+gaming club back end
